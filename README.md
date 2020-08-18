@@ -1,2 +1,2 @@
 # js-more
-Here is all js projects
+All js projects are here
