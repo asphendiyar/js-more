@@ -1,0 +1,16 @@
+body{
+    background-color: #2F4858;
+    height: 100vh;
+}
+
+.clock{
+    background-color: #348C80;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5em;
+    padding: 1em;
+    border-radius: 1em;
+    color: #D7F0EB;
+}
