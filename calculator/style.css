@@ -11,7 +11,7 @@ body{
 }
 h1{
     margin-bottom: 10%;
-    color: ;
+    color: white;
 }
 .container{
     position: absolute;
@@ -25,24 +25,31 @@ h1{
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    justify-content: ;
+    border-radius: 1rem;
+
 }
 p{
     font-size: 2rem;
+    cursor: pointer;
+    padding: 0.9rem 2.5rem;
 }
 .display{
     display: flex;
-    background-color: whitesmoke;
+    background-color:#222;  
     width: 50%;
     height: 10%;
     justify-content: center;
     justify-content: space-around;
     align-items: center;
-    border-color: darkgoldenrod;
+    color: white;
+    font-size: 2rem;
+    padding: 1rem;
+    border-color: white;
+    border-width: 1rem;
 }
 .clear{
     display: flex;
-    background-color: darkgoldenrod;
+    background-color:#bccd95;  
     width: 50%;
     height: 10%;
     justify-content: center;
@@ -51,7 +58,7 @@ p{
 }
 .row{
     display: flex;
-    background-color: darkgoldenrod;
+    background-color:#bccd95;  
     width: 50%;
     height: 10%;
     justify-content: center;
