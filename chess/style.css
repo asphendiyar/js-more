@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative; 
+    min-height: 100vh;
+    background-color: rgb(152, 190, 223);
+}
+
+.board{
+    width: 800px;
+    height: 800px;
+    background-color: royalblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
